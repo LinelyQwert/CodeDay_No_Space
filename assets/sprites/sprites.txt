@@ -1,0 +1,16 @@
+condo1 2 2
+condo2 1 4
+hdb1 2 2
+hdb2 1 4
+landed 1 1
+newater 1 1
+nuclear 2 1
+pipeline 1 1
+power 2 1
+primary 2 1
+reservoir 2 1
+secondary1 2 2
+secondary2 1 4
+solar 2 1
+squatter 2 1
+tertiary 2 1

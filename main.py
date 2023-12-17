@@ -247,7 +247,7 @@ def helpmenu():
             menu_text = [
                 "Press 2 to access controls",
                 "Press 3 to access building hotkeys & information",
-                "Objective: Survive without letting any component",
+                "Objective: Survive without letting any component go below population size",
                 "",
                 "",
             ]
